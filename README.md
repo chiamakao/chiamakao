@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Chiamaka Anuebunwa</h1>
 <h3 align="center">An Environmentalist with great love for Tech.</h3>
