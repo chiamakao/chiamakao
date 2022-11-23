@@ -9,9 +9,9 @@
 
 - 👯 I've worked on **web scrapping, exploratory data analysis and machine learning projects**
 
-- 👨‍💻 All of my projects are available at [https://jovian.ai/olivelikes2chat](https://jovian.ai/olivelikes2chat)
+- 👨‍💻 All of my projects are available at [jovian](https://jovian.ai/olivelikes2chat)
 
-- 📝 I regularly write articles on [https://medium.com/@anuebunwa.c.o](https://medium.com/@anuebunwa.c.o)
+- 📝 I regularly write articles on [medium](https://medium.com/@anuebunwa.c.o)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
