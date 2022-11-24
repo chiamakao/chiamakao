@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chiamaka Anuebunwa</h1>
 <h3 align="center">An Environmentalist with great love for Tech.</h3>
 
-- 🔭 I recently devoted over 500 hours learning **Data Science and Machine Learning.**
+- 🔭 I recently devoted over 600 hours learning **Data Science and Machine Learning.**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
